@@ -1,0 +1,6 @@
+@GroupChatApi_HostAddress = http://localhost:5208
+
+GET {{GroupChatApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
